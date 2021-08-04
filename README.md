@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex)](https://github.com/Effolex?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex&layout=compact)](https://github.com/Effolex?tab=repositories)
 
 
 <!--
