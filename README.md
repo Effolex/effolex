@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Eric AKA Effolex
 #### I'm a full-stack development student
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex&layout=compact)](https://github.com/Effolex?tab=repositories)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Effolex&repo=trybe-exercicios)](https://github.com/Effolex/trybe-exercicios/tree/geral#readme)
+
 I love to code and spend time on funny ways of solve problems, other than that I'm always listening to music, playing games or watching animes.
 
 - 🔭 I’m currently working on finishing my education 
