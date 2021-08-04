@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex&layout=compact)](https://github.com/Effolex?tab=repositories)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Effolex/trybe-exercicios/tree/geral)
+
 
 <!--
 **Effolex/effolex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
