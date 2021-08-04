@@ -1,11 +1,12 @@
-### Hi there 👋, My name is Eric AKA Effolex
+## 'Hello World', my name is Eric A.K.A Effolex
 #### I'm a full-stack development student
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex&layout=compact)](https://github.com/Effolex?tab=repositories)
 
-I love to code and spend time on funny ways of solve problems, other than that I'm always listening to music, playing games or watching animes.
+## Things to know about me
 
-- 🔭 I’m currently working on finishing my education 
-- 🌱 I’m currently learning Front-End 
+- 🔭 I'll be finishing my education at the end of 2022.
+- 🌱 I’m currently learning Front-End.
+- Hobbys: :tw-1f3b6::tw-1f3b8::tw-1f3a4::tw-1f3ae::fa-steam-square:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Effolex)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/effolex//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://effolex.github.io/portfolio/)  
