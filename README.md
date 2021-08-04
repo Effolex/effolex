@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex&layout=compact)](https://github.com/Effolex?tab=repositories)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Effolex/trybe-exercicios/tree/geral)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Effolex&repo=trybe-exercicios)](https://github.com/Effolex/trybe-exercicios/tree/geral)
 
 
 <!--
