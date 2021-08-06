@@ -1,8 +1,5 @@
 ## 'Hello World', my name is Eric A.K.A Effolex
 #### I'm a full-stack development student
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effolex&layout=compact)](https://github.com/Effolex?tab=repositories)
 
 ## What I use
