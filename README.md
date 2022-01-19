@@ -11,7 +11,7 @@
 ## Things to know about me
 
 - 🔭 I'll be finishing my education at the end of 2022.
-- 🌱 I’m currently learning Front-End.
+- 🌱 I’m currently studying back-end development.
 - Hobbys: :hearts::guitar::microphone::video_game::space_invader:
 
 
